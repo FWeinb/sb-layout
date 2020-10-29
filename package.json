@@ -1,0 +1,25 @@
+{
+  "name": "sb-layout",
+  "version": "1.0.0",
+  "description": "Build scriptable widgets using JSX-like syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FWeinb/sb-layout.git"
+  },
+  "keywords": [
+    "scriptable",
+    "jsx",
+    "htm",
+    "widget"
+  ],
+  "author": "Fabrice Weinberg <fabrice@weinberg.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FWeinb/sb-layout/issues"
+  },
+  "homepage": "https://github.com/FWeinb/sb-layout#readme"
+}
