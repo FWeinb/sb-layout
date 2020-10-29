@@ -27,7 +27,7 @@ const widget = render`
 
 ### Showcase
 
-![Showcase Preview Image](img/Showcase-Preview.png)
+![Showcase Preview Image](img/Showcase-preview.png)
 [Source Code](examples/Showcase.js)
 
 
