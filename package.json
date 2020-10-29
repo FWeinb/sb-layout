@@ -1,5 +1,5 @@
 {
-  "name": "sb-layout",
+  "name": "@fweinb/sb-layout",
   "version": "1.0.0",
   "description": "Build scriptable widgets using JSX-like syntax",
   "main": "index.js",
