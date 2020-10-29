@@ -23,11 +23,13 @@ const widget = render`
 ### Apple Calendar Widget 
 
 ![Apple Calendar Widget Preview Image](img/AppleCalender-Preview.png)
+  
 [Source Code](examples/AppleCalenderWidget.js)
 
 ### Showcase
 
 ![Showcase Preview Image](img/Showcase-preview.png)
+  
 [Source Code](examples/Showcase.js)
 
 
