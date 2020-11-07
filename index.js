@@ -108,8 +108,6 @@ function render(...args) {
     }
   }
 
-  console.log(ast.toString());
-
   if (ast[0].type !== 'ListWidget')
     throw new Error(`A widget must be rendered inside <ListWidget>`);
 
