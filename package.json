@@ -16,6 +16,9 @@
     "htm",
     "widget"
   ],
+  "files": [
+    "index.js"
+  ],
   "author": "Fabrice Weinberg <fabrice@weinberg.me>",
   "license": "MIT",
   "bugs": {
